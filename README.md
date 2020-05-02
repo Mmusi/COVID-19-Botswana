@@ -1,16 +1,16 @@
-Exploring Data Science - Road to being a Story Teller
+#Exploring Data Science - Road to being a Story Teller
 
-Here I will start by working with the current situation: the on-going pandemic COVID-19
+My practical material for following the covid-19 pandemic in Botswana and exploring the use of Data Science to come up with solutions.
 
-With this notebook I will explore and learn different ways and techniques of Python programming, Data Science to further horn my analysis skills.I will try to do what Data Scientists call as munging as data is not easily available in Botswana... In simple terms Data Munging is the collecting of RAW DATA from different sources to process it so it becomes more appropriate and valuable. With this repository I hope it will serve as my track and gauge as I go along the route of mastering Data Analysis..
+Thank you for following!
+[Thato Mmusi](https://www.linkedin.com/in/thato-mmusi-13940b5b
 
-It would be my pleasure to have anyone interested in the field follow me along the way to my becoming a story teller!
-Although when going through the learning processes I will be preparing for the IBM Cognos Analytics Author Certification exam before end of year 2020:
+" With my work, not onl;y do I pledge to share my knowledge on Data Science & Python Programming. It is also my wish to help businesses along the way. Should it be Botswana, South Africa, Zimbabwe or anywhere in the world; I am ready to be of use. 
 
-•	I will solely be using open source Data Science tools such as Python, Zeppelin and Jupyter Notebooks.
+###NB: If any part of my writing does not ake any sense or clear, then it means I am not doing it right. Feel free to conatct me at mmusi2010@gmail.com or thatommusi@bonala.biz (use both)
 
-I will start by trying to track COVID-19 in Botswana though data is not easily available here, hopefully my DATA MUNGING skills will take a serious sharpening as a result. Hopefully my notebooks will be testament to such.
-You can also follow my work on kaggle and articles on my LinkedIn Profile
-
-Should you wish to connect or chat about anything you can send me a mail at mmusi2010@gmail.com
-
+ You can also follow me on
+ 
+ - kaggle - https://www.kaggle.com/thatommusi 
+ - LinkedIn Profile- https://www.linkedin.com/in/thato-mmusi-13940b5b
+ - Twitter: https://twitter.com/mmusi_thato
